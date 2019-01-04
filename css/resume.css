@@ -91,6 +91,10 @@ p.lead {
   max-height: 8vh;
 }
 
+.web {
+  max-height: 4vh;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
